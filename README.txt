@@ -1,5 +1,3 @@
-Name: Siyan Ma
-
 File list:
 main.cpp
 astar.h
